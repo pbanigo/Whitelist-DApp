@@ -214,7 +214,7 @@ export default function Home() {
       </div>
 
       <footer className={styles.footer}>
-        Made with &#10084; by  <a href="https://peterbanigo.com">&nbsp;Peter Banigo!</a>
+        Made with &#10084; by  &nbsp;<a href="https://peterbanigo.com">&nbsp;Peter Banigo!</a>
       </footer>
     </div>
   );
